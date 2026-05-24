@@ -64,7 +64,7 @@ A sidebar annotation and commenting plugin for Obsidian. Side Comments allows yo
 
 ### Option 2: Manual Installation
 
-1. Download the latest release from the [GitHub Releases Page](https://github.com/jepicaju862-lab/Side-Comments/releases?utm_source=chatgpt.com).
+1. Download the latest release from the [GitHub Releases Page](https://github.com/jepicaju862-lab/Side-Comments/releases).
 2. Extract the plugin folder into your vault:
 
 ```bash

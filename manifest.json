@@ -1,9 +1,9 @@
 {
-  "id": "Side-Comments",
-  "name": "Side-Comments",
-  "version": "1.0.5",
+  "id": "side-comments-plugin",
+  "name": "Side Comments",
+  "version": "1.0.6",
   "minAppVersion": "0.15.0",
-  "description": "A sidebar annotation and commenting plugin with text highlights, hover previews, Markdown comments, image support, sidebar management, export, and backup features.",
+  "description": "Sidebar annotation and commenting with text highlights, hover previews, Markdown comments, image support, sidebar management, export, and backup features.",
   "author": "peyote",
   "isDesktopOnly": false
 }

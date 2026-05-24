@@ -1,9 +1,9 @@
 {
-	"id": "side-note",
-	"name": "SideNote",
-	"version": "1.0.3",
-	"minAppVersion": "0.15.0",
-	"description": "A sidebar annotation and commenting plugin for Obsidian. Side Comments allows you to highlight any text in your notes and attach standalone comments with Markdown support, image embedding, hover preview, and centralized sidebar management.",
-	"author": "peyote",
-	"isDesktopOnly": false
+  "id": "side-comments",
+  "name": "Side Comments",
+  "version": "1.0.3",
+  "minAppVersion": "1.0.0",
+  "description": "A sidebar annotation and commenting plugin for Obsidian with text highlights, hover previews, Markdown comments, image support, sidebar management, export, and backup features.",
+  "author": "peyote",
+  "isDesktopOnly": false
 }

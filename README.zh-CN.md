@@ -1,4 +1,4 @@
-````md id="side-comments-readme-zh"
+
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![简体中文](https://img.shields.io/badge/Language-简体中文-red)](README.zh-CN.md)
 
@@ -162,5 +162,3 @@ MIT License
 
 * 小红书：`9417036368`
 
-```
-```

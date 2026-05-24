@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![简体中文](https://img.shields.io/badge/Language-简体中文-red)](README.zh-CN.md)
 
-# Note Margins
+# side-comments-plus
 
 A sidebar annotation and commenting plugin for Obsidian. Side Comments allows you to highlight any text in your notes and attach standalone comments with Markdown support, image embedding, hover preview, and centralized sidebar management.
 

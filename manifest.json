@@ -1,6 +1,6 @@
 {
   "id": "side-comments-plugin",
-  "name": "Side Comments",
+  "name": "side-comments-plugin",
   "version": "1.0.3",
   "minAppVersion": "0.15.0",
   "description": "A sidebar annotation and commenting plugin for Obsidian with text highlights, hover previews, Markdown comments, image support, sidebar management, export, and backup features.",

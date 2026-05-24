@@ -1,6 +1,6 @@
 {
-	"name": "side-comments-plugin",
-	"version": "1.0.2",
+	"name": "side-comments-plus",
+	"version": "1.0.3",
 	"description": "Add comment on the part of sentence and refer in comment view.",
 	"main": "main.js",
 	"scripts": {

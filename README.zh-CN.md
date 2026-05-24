@@ -2,7 +2,7 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![简体中文](https://img.shields.io/badge/Language-简体中文-red)](README.zh-CN.md)
 
-# Side Comments
+# side-comments-plus
 
 一款专为 Obsidian 打造的侧边栏批注与评论插件。你可以对 Markdown 文档中的任意文本进行高亮批注，并通过侧边栏统一管理所有评论，支持 Markdown 渲染、图片插入、悬浮预览、导出与备份等功能。
 

@@ -3,7 +3,7 @@
 	"name": "SideNote",
 	"version": "1.0.3",
 	"minAppVersion": "0.15.0",
-	"description": "Add comment on the part of sentence and refer in comment view.",
+	"description": "A sidebar annotation and commenting plugin for Obsidian. Side Comments allows you to highlight any text in your notes and attach standalone comments with Markdown support, image embedding, hover preview, and centralized sidebar management.",
 	"author": "peyote",
 	"isDesktopOnly": false
 }
